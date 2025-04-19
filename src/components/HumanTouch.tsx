@@ -9,7 +9,7 @@ const HumanTouch: React.FC = () => {
             <div className="w-full md:w-2/5 mb-8 md:mb-0">
               <img 
                 src="https://images.pexels.com/photos/5699489/pexels-photo-5699489.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" 
-                alt="Dr. Sarah Chen, Founder of CareCompliance.ai" 
+                alt="Dr. Pragna K S, Founder of CareCompliance.ai" 
                 className="rounded-lg shadow-md w-full h-auto"
               />
             </div>
@@ -41,7 +41,7 @@ const HumanTouch: React.FC = () => {
                 <div className="mr-4">
                   <img 
                     src="https://images.pexels.com/photos/5699489/pexels-photo-5699489.jpeg?auto=compress&cs=tinysrgb&w=100" 
-                    alt="Dr. Sarah Chen" 
+                    alt="Dr. Pragna K S" 
                     className="h-12 w-12 rounded-full object-cover"
                   />
                 </div>

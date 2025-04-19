@@ -6,7 +6,7 @@ import Features from './components/Features';
 import Benefits from './components/Benefits';
 import WhoItIsFor from './components/WhoItIsFor';
 import EarlyAccess from './components/EarlyAccess';
-import HipaaSection from './components/HipaaSection';
+// import HipaaSection from './components/HipaaSection';
 import HumanTouch from './components/HumanTouch';
 import Footer from './components/Footer';
 
@@ -46,13 +46,14 @@ function App() {
       <Header />
       <main>
         <Hero />
+        <HumanTouch />
         <WhatWeDo />
         <Features />
         <Benefits />
         <WhoItIsFor />
         <EarlyAccess />
-        <HipaaSection />
-        <HumanTouch />
+        {/* <HipaaSection /> */}
+        
       </main>
       <Footer />
     </div>
