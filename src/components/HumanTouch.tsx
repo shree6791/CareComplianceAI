@@ -46,7 +46,7 @@ const HumanTouch: React.FC = () => {
                   />
                 </div>
                 <div>
-                  <p className="font-medium text-gray-900">Dr. Sarah Chen</p>
+                  <p className="font-medium text-gray-900">Dr. Pragna K S</p>
                   <p className="text-gray-600">Founder, CareCompliance.ai</p>
                 </div>
               </div>
