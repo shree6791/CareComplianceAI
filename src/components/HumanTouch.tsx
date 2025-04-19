@@ -21,7 +21,7 @@ const HumanTouch: React.FC = () => {
               
               <div className="prose max-w-none">
                 <p className="text-lg text-gray-700 mb-4">
-                  Hi, I'm Dr. Sarah Chen. Before founding CareCompliance.ai, I spent 15 years as a healthcare administrator and saw firsthand how documentation burdens were crushing small home health agencies.
+                  Hi, I'm Dr. Pragna K S. Before founding CareCompliance.ai, I spent 15 years as a healthcare administrator and saw firsthand how documentation burdens were crushing small home health agencies.
                 </p>
                 
                 <p className="text-lg text-gray-700 mb-4">
